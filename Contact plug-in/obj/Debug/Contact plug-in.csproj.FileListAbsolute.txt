@@ -1,0 +1,10 @@
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\bin\Debug\Contact plug-in.dll
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\bin\Debug\Contact plug-in.pdb
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\obj\Debug\Contact plug-in.csprojAssemblyReference.cache
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\obj\Debug\Contact plug-in.csproj.CopyComplete
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\obj\Debug\Contact plug-in.dll
+C:\Users\dmechenx\Documents\Visual Studio 2019\Projects\Dynamics Plugins\Contact plug-in\obj\Debug\Contact plug-in.pdb
