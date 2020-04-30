@@ -1,10 +1,10 @@
 # Dynamics365-Plugins
 
 Pre-pare Dynamics 365 enviroment<br/>
-  Cteate a publisher in Dynamics
-    Settings -> Customizations -> Publishers
-  Create sollution in Dynamics
-    Settings > Solutions -> New (select publisher created earlier)
+  Cteate a publisher in Dynamics<br/>
+    Settings -> Customizations -> Publishers<br/>
+  Create sollution in Dynamics<br/>
+    Settings > Solutions -> New (select publisher created earlier)<br/>
   
 VS project:<br/>
  <ul>.NET Framework 4.7.1</ul>
